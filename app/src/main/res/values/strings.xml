@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wawasan Gamelan</string>
+    <string name="heroes_name">Perangkat Gamelan</string>
+    <string name="name">Danur Wijayanto</string>
+    <string name="email">danurwijayanto@gmail.com</string>
+    <string name="about">About</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="content_specs_display">test</string>
+    <string name="test">test</string>
+    <string name="todo">TODO</string>
+    <string name="data_received">Data Diterima</string>
+</resources>
